@@ -184,6 +184,44 @@ img {
     transform: scale(0.95);
 }
 
+.bg-primary,
+.button-primary {
+    background: #047aed;
+    color: #fff;
+}
+
+.bg-secondary,
+.button-secondary {
+    background: #1c3fa8;
+    color: #fff;
+}
+
+.bg-dark,
+.button-dark {
+    background: #002240;
+    color: #fff;
+}
+
+.lead {
+    font-size: 20px;
+}
+
+.sm {
+    font-size: 1rem;
+}
+
+.md {
+    font-size: 2rem;
+}
+
+.lg {
+    font-size: 3rem;
+}
+
+.xl {
+    font-size: 4rem;
+}
+
 .text-center {
     text-align: center;
 }
