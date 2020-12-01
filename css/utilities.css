@@ -51,6 +51,12 @@
     color: #fff;
 }
 
+.bg-light,
+.bg-light {
+    background: #e4e8e5;
+    color: #000000;
+}
+
 .bg-primary a,
 .button-primary a,
 .bg-secondary a,
